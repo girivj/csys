@@ -1,0 +1,800 @@
+﻿The term reset control refers to    ||||    Integral control
+
+
+Control System are frequently tested for step input because     ||||    It is reasonably drastic
+
+
+ The Order of a system is determined by    ||||    The highest degree of S in the Denominator polynomial
+
+
+The transient response of a system with feedback compared to that of a system without feedback    ||||    decays more quickly
+
+
+The impulse response of a first order system is     ||||    Constant with respect to time
+
+
+The over-shoot of 2 IIorder systems with same damping but different natural frequency of oscillations will be                   ||||    Different
+
+
+The speed of decay of transient response of a second order system depends on    ||||    Damping factor
+
+
+The settling time of a second order system subjected to step input increases as    ||||    Damping factor increases
+
+
+Proportional +Derivative controller connected in cascade with a second order system    ||||    Increases the effective damping
+
+
+The Proportional + Integral controller connected in cascade with a second order system    ||||    Improves the steady state error of the system.
+
+
+An under damped second order system will possess over-shoot when it is subjected to only    ||||    Step input.
+
+
+The static error constants depends on    ||||    Both type and order of the system.
+
+
+For a stable second order over damped system, the poles are    ||||    real and unequal
+
+
+The response of the system when the input changes from one state to another is called    ||||    Transient response
+
+
+The signal whose value changes from 0 to A and remains constant at A for t>0 is a     ||||    Step signal
+
+
+The value at which the function F(s) becomes infinite is at the    ||||    Pole
+
+
+The system in which the damping ratio is greater than 1 is called    ||||    Over damped system
+Ratio of the rotor reactance X to the rotor resistance R for a two-phase servomotor is    ||||    less than that of a normal induction motor
+
+
+Peak overshoot of a step input response of an underdamped second order system is explicitly indicative of     ||||    damping ratio
+
+
+Generalized error series gives the error signal as a function of    ||||    time
+
+
+The time taken for the response to reach 50% of the final value for the very first time is called    ||||    delay time
+
+
+For the unity fedback system with the open loop transfer function G(s) = 25/s(s+6), the peak overshoot is approximately     ||||    10%
+
+
+The steady state error is the value of the error signal e(t), when t tends to    ||||    infinity
+
+
+For the unity feedback system with the open loop transfer function G(s), the steady state error is zero for     ||||    step input and type-1
+
+
+The nature of the response of a underdamped second order system is    ||||    damped oscillatory
+
+
+The ratio of actual damping to critical damping is called________    ||||    damping ratio
+
+
+A control system is said to be good if it has    ||||    Sufficient and economical power handling capacity
+
+
+ If the gain K of the system increases, the steady-state error of the system    ||||    Decreases
+
+
+The first derivative control can be used to    ||||    Decreases damping
+
+
+For a II order-type 1 system, the resonance peak will occur when the system gain is at the    ||||    Critical damping value.
+
+
+In an over damped system the damping ratio is    ||||    Greater than one
+
+
+For type 2 system the steady-state error due to ramp input is equal     ||||    Zero.
+
+
+For type 2 system the steady-state error due to step input is equal to    ||||    Zero.
+
+
+The unit step signal is    ||||    C(t) = 1, t ≥ 0
+
+
+The transfer function PI Controller.    ||||    Gc(s) = KP + Ki / s
+
+
+The transfer function PD Controller    ||||    Gc(s) = KP + Kd s
+The transfer function PID Controller    ||||    Gc(s) = KP + Ki / s + Kds
+
+
+Zero initial condition for a system means     ||||    System is at rest and no energy is stored in any of its component
+
+
+Types of systems is    ||||    Number of poles at the origin
+
+
+The Laplace Transform of the unit parabolic Function    ||||    1 / s3
+
+
+The Laplace Transform of the unit ramp Function    ||||    1 / s2
+
+
+The Laplace Transform of the unit step Function    ||||    1 / s
+
+
+The mathematical expression for rise time     ||||    п-Ө/ωd
+
+
+The steady state error for unit step input is     ||||    1/1+Kp
+
+
+The steady state error for unit ramp input is    ||||    1/Kv
+
+
+The steady state error for unit parabolic input is ………….    ||||    1/Ka
+
+
+The Laplace Transform of e -at    ||||             1/s+a
+
+
+The Laplace Transform of e +at     ||||    1/s-a
+
+
+The condition of unit ramp signal is     ||||    C(t) = t, t ≥ 0
+
+
+ In a critical damped system the damping ratio is    ||||    One
+
+
+The mathematical expression for peak time of ……….    ||||    п/ωd
+
+
+In a undamped system the damping ratio is    ||||    Zero
+
+
+In a undamped system the roots are    ||||    Purely imaginary
+
+
+In a Critically damped system the roots are    ||||    Real and equal
+
+
+The unit of damped frequency of Oscillation is    ||||    Radian/Sec.
+
+
+Delay time is the    ||||    Time taken for response to reach 50% of the final value
+
+
+Laplace transform and fourier integrals are related to    ||||    Both frequency and time domain function
+
+
+Transfer function is defined for    ||||    Linear and time-invariant system
+
+
+The steady state output of unity feed back control systems is     ||||    very near to reference input
+
+
+ The characteristic equation of an AC servo motor is    ||||    Second order equation
+
+
+Sinusoidal oscillators are …………… system.    ||||    marginally stable
+
+
+If all the roots of the characteristic equation have negative real parts, then the system is …………..    ||||    stable
+
+
+For the application of Routh’s test, all the coefficients of the characteristic equation must be …………….          ||||    real
+
+
+The number of sign changes in the elements of the first column of the Routh array denotes     ||||    the number of poles of the closed-loop system in the RHP
+
+
+G(s)=e-2s/s(s+4). The system with this transfer function is operated in closed-loop with unity feedback. The closed-loop system is    ||||    stable
+
+
+The closed-loop transfer function of a system is C(s)/R(s) =s-2/(s+1)(s+3)(s+4).The system is     ||||    stable
+
+
+The terms in the first column of the Routh array of the characteristic equation of certain system are 2, 1, 8, -7, 2, and 6. The number of roots of the characteristic equation in the right-half of the s-plane is equal to          ||||    2
+
+
+The terms in the first column of the Routh array of the characteristic equation of a certain system are 5, 7, 4, 3, -2. The number of roots of the characteristic equation in the right-half of the s-plane is equal to          ||||    1
+
+
+The open-loop transfer function of a closed-loop system is G(s)=K/s(s+2)(s+4). The range of values of K for stable operation is     ||||    0 < K < 48
+
+
+The characteristic equation of a unity feedback system is given by s3+s2+2s+2=0.     ||||     The system exhibits oscillatory response
+
+
+The root locus is ……………….of the system    ||||    a graphical representation
+
+
+The root locus is …………..  of the system.    ||||    a time-domain approach
+
+
+The root locus can be applied to     ||||    only linear system
+
+
+The root locus can be used to determine     ||||    both absolute and relative stabilities of a system
+The root locus always starts at the     ||||    open-loop poles
+
+
+The root locus always terminates on the     ||||    open-loop zeros
+
+
+The root locus gives the locus of     ||||    closed-loop poles
+
+
+An open-loop transfer function has 4 poles and 1 zero. The number of branches of root locus is     ||||    4
+
+
+Asymptotes can intersect     ||||    any where on the real axis
+
+
+Angles of asymptotes are measured at the centroid with respect to    ||||    positive real axis
+
+
+In a root locus system the break points are     ||||    real or complex   
+
+
+The angle of departure from a real pole is always     ||||    either 0? or 180?
+
+
+The angle of arrival at a real zero is always     ||||    either 0? or 180?
+
+
+The root locus can be used to solve higher-order     ||||    algebraic equations
+
+
+The roots of the characteristic equations are same as     ||||    closed-loop poles
+
+
+For a stable system    ||||    both gain margin and phase margin must be positive
+
+
+A point lying inside the closed contour is said to be     ||||    enclosed  
+
+
+A point or region lying to the right of the path of traversal when the closed contour is traversed in the clockwise direction is said to be    ||||    encircled
+
+
+In q(s)-plane the Nyquist plot is symmetrical about the     ||||    real axis
+
+
+The root locus can be used to solve higher order ………….    ||||    integral equation
+
+
+If the system has non repeated poles on the j? axis , the system is ……….    ||||    marginally stable
+
+
+If the system has multiple poles on the j? axis, the system is ……….    ||||    unstable
+
+
+Integrators are ………….systems    ||||    marginally stable
+
+
+Stability is a very important characteristic of the ---------------- response of the system.    ||||    transient
+Marginally stable systems have some roots with real parts equal to Zero, but none with    ||||    positive real parts
+
+
+The Routh stability criterion for testing the stability of the system is     ||||    an algebraic method
+
+
+In the formulation of the Routh array, when ever difficulty 1 or difficulty 2 arises, it can be concluded that the system is           ||||    Stable
+
+
+A closed-loop control system has the following characteristic equation s3+8Ks2+(K+4)s+20=0  where K is the open-loop gain of the system. The condition for marginal stability is          ||||    K=2
+
+
+The characteristic equation 1+G(s)H(s)= 0 of the system is given by  s4+8s3+12s2+8s+K=0 for the system to remain stable, the value of gain K should be    ||||    0<K<11
+
+
+If the root loci do not cross the imaginary axis then the system is ……..    ||||    stables for all values of ‘k’
+
+
+The feed back system with characteristic equation  s4+20Ks3+5s2+10s+15=0 is     ||||    unstable for all values of K
+
+
+A system has loop gain as G(s)H(s) = K/s(s+1)(s+2)(s+3), the number of separate root     ||||    unstable for all values of K
+
+
+ …………. is the best method for determining the stability and transient response.    ||||    Root locus
+
+
+The system characteristic equation is (S3-2S2+3S+6) = 0. The system is …….    ||||    Unstable
+
+
+Unity feedback system has a open loop transfer function of G(s) = K / S2 (S+10) (S+100). The Position error coefficients are     ||||    8
+
+
+In a s-plane the roots are lie on the imaginary axis the system is …………..    ||||    Marginally stable
+
+
+The gain margin of a system is 0 dB. It represents a ………..    ||||    marginally stable system
+
+
+The stability of a system which approaches the origin as times tends to infinity is termed as     ||||    Asymptotically stable
+
+
+Self tuning control is mostly utilized in     ||||    Discrete time system
+
+
+
+
+Dominant poles are the poles which lie ……..    ||||    very near to the origin
+The characteristic equation of a system is s2+4s+10 = 0. The system is     ||||    underdamped
+
+
+Bode plot is a ---------------------.    ||||    Frequency response of the system.
+
+
+Neper is a ____________________    ||||    Real part of natural logarithm of magnitude.
+The gain margin of a second order system is ………….    ||||    infinite
+
+
+Polar plot is a ----------------------.    ||||    Plot between magnetic versus phase angle in polar coordinate.
+
+
+The polar form of -4-j3 is    ||||    Magnitude value is 5 and angle value is 216.87.
+
+
+Standard representation of bode plot is ………..    ||||    -20log(G(jω))
+
+
+_________ increases the steady state accuracy of the system.    ||||    Integrator
+
+
+In a frequency response system the two asymptotes meet at a point is ….. …    ||||    Corner frequency
+
+
+The frequency response system, resonant peak (Mr) does not exist for ……….    ||||    x >0.707
+
+
+The bode plot is applicable to .................    ||||    Minimum phase network
+
+
+The function (1/jωT) has the slope of ………….    ||||    -20db/decade
+
+
+Phase margin of a system is used to specify …………..    ||||    Relative stability
+
+
+The effect of adding poles and zeros can be determined quickly by which of the          ||||    bode plot
+
+
+The damping ratio x of a system is 0.5. The value of r(resonant peak) is…………..    ||||    1.54
+
+
+For a second-order system wn=8 and  x=0.5. The value of wr in rad/sec.  (wn = natural frequency of oscillation, x = wr = resonant frequency) damping ratio     ||||    5.657
+
+
+The gain margin of a system is 0 dB. It represents a ………..    ||||    marginally stable system
+
+
+The phase margin of a system is 0°. It represents a …………..    ||||    marginally stable system
+
+
+For a stable system    ||||    both gain margin and phase margin must be positive
+
+
+Trfer function of a system is 100(1+0.25s)/(1+0.5s). The corner frequencies are    ||||    4 and 2
+
+
+Large values of gain margin and phase margin result is ……….    ||||    an sluggish system
+
+
+The roots of the characteristic equation are same as    ||||    closed-loop poles
+
+
+Frequency response test is not recommended for systems with    ||||    with large time constants
+
+
+Trfer function of a system is 1/(1+0.02s). The corner frequency will be    ||||     50 rad. /sec.
+
+
+For an unstable system    ||||    both gain margin and phase margin must be negative
+
+
+The gain cross over frequency is  ……….    ||||    the frequency at which magnitude of G(jω) is zero dB
+
+
+x    ||||    the frequency at which the phase angle of G(jω) at -1800(degree)
+
+
+The gain margin is ………….    ||||    the magnitude in decibels at phase cross over frequency
+
+
+The phase margin is ………….    ||||    the phase angle in degrees at gain cross over frequency
+
+
+For a marginally stable system    ||||    both gain margin and phase margin must be zero
+
+
+The function 1/s has the phase angle value of bode plot ………….    ||||    -900 (degree)
+
+
+The M circle is a ………    ||||    Magnitude of closed loop trfer function is constant
+
+
+The N circle is a …………………..    ||||    Phase angle of closed loop trfer function is constant
+
+
+The function 1/s2 has the phase angle value of bode plot ………….    ||||    -1800 (degree
+
+
+The function 1/s2 has the magnitude value of bode plot ………….    ||||    -40 log ω
+
+
+The function 1/s has the magnitude value of bode plot ………….    ||||    -20 log ω
+
+
+The function (1+ s T1) has the slope of bode plot ………….    ||||    +20 db/decade
+
+
+The function (1+ s T1) has the phase angle(φ) of bode plot ………….    ||||    φ = +tan-1 ω T1
+
+
+The characteristic equation of a closed loop control system is given by    ||||    1.1414
+At resonance condition    ||||    XL = XC
+
+
+The closed-loop trfer function of a system is C(s)/R(s) =s-2/(s+1) (s+3) (s+4).The system is 
+………    ||||    stable
+
+
+For a factor 1/(s+4)2 at w(natural frequency) = 2 rad/sec, the asymptotic plot will have   an error of    ||||    –2 dB
+At the phase crossover frequency w(natural frequency) = 7 rad/sec,|G(jw)H(jw)| = –12 dB. Its gain margin ……….    ||||    is +12 dB
+
+
+At the gain crossover frequency w=5 rad/s, |G(jw)H(jw)|=–170°. The phase margin is    ||||    +10°
+
+
+A trfer function which has all its poles and zeros only in the left-half of the s-plane is called    ||||    a minimum-phase trfer function
+
+
+A transfer function having a pole-zero patterns which is antisymmetric about the imaginary axis is called……..    ||||    an all-pass trfer function
+
+
+A point or region lying to the right of the path of traversal when the closed contour is traversed in the clockwise direction is said to be    ||||    encircled by it
+
+
+A point lying inside the closed contour is said to be    ||||    enclosed by it
+
+
+A system has 14 poles and 2 zeros .The slope of its highest frequency asymptotes in         its magnitude plot is ……    ||||    -320
+
+
+If the s-plane contour encloses 3 zeros and 2 poles of q(s), the corresponding q(s) plane contour will encircle the origin of q(s) plane    ||||    once in clockwise direction
+
+
+If a polar plot touches the negative real axis only at the origin, then the gain margin is    ||||    ¥
+
+
+51. The open-loop trfer function of a second-order system is G(s)H(s)=20(s+1)(s+10).gain margin is    ||||    2 dB
+
+
+As the polar plot gets closer to the (-1+j0) point, the stability of the system is    ||||    reduced
+
+
+The Nichols chart can be used to determine    ||||    closed-loop frequency response
+
+
+The frequency and time domain are related through    ||||    laplace trform and fourier integral
+
+
+is/are used for Nyquist plot.    ||||    Open loop function
+
+
+Bode plot is a ………..    ||||    combined magnitude and phase angle plot
+
+
+The term of asymptotes in a bode plot is low frequency and high frequency approximation can be represented by    ||||    zero decibel
+
+
+The advantages of Bode plot is ………..    ||||    the effect of noise can be easily visualized in time response analysis
+
+
+A system has good degree of relative stability then the phase margin is ……..    ||||    300 to 350
+A system has good degree of relative stability the gain margin is ……..    ||||    about +6 dB
+
+
+A devices inserted in to the system for the purpose of satisfying the desired specifications is called ………………    ||||    compensator
+
+
+The lag compensator will reduce ………….    ||||    bandwidth
+
+
+The lead compensator will reduce ………….    ||||    peak overshoot
+
+
+The lead compensator is to increase the  ………….    ||||    bandwidth
+
+
+The compensator required to improve the transient response of a system is ……..     ||||    lead
+
+
+The compensator required to improve the steady-state response of a system is     ||||    lag  
+
+
+"The compensator required to improve both the transient and the steady-state     response of a system is"    ||||    lag-lead
+   
+A rough measure of bandwidth of a system is……..    ||||    gain crossover frequency         
+
+
+Rise time ( tr ) and settling time ( ts )are measures of    ||||    speed of response         
+                           
+Resonant peak (Mr) and phase margin( ?pm )are measures of    ||||    absolute stability
+
+
+Damping ratio(? ) and peak overshoot (Mp) are measures of    ||||    relative stability   
+ 
+Bandwidth is reduced when the compensator used is     ||||    lag  
+         
+When the specifications are resonant peak Mr and resonant frequency ?r, the plot used to design the compensator is    ||||    Bode plot
+
+
+The transfer function approach is applicable to    ||||    only linear time-invariant systems
+
+
+"When the specifications are phase margin ?pm and bandwidth ?b, the plot used     to design the compensator is  "    ||||    Bode plot
+
+
+Any type of specification can be handled using ………..system.    ||||    Bode plot
+
+
+Direct decomposition is applicable to transfer functions in which    ||||    both numerator and denominator are in factored form
+
+
+The number of state variables of a system is equal to    ||||    the number of integrators present in the system
+
+
+Using state variables, an nth-order differential equation can be decomposed into    ||||    ‘n’ 
+number of first-order differential equations
+
+
+In state space representation, x(t) = Ax(t)+ Bu(t) is called the    ||||    state equation
+
+
+In state space representation the ‘A’ matrix is called the    ||||    system matrix  
+
+
+The transients response system time constant T is indicative of     ||||    how  fast the system tends to reach the final value
+
+
+Rise time in time response specification of a system indicates the time required for the response to rise from    ||||     10 percent to 90 per cent of the final value of underdamped system;
+
+
+The characteristic equation of a first order system is a0s+a1= 0. The condition for stability of the system is    ||||    "both a0 or a1 must be positive                   
+                         "
+Root locus technique is applicable to     ||||    single as well as multiple loop system   
+
+
+Root locus technique provides a graphical method of plotting locus of the roots in the S-plane for    ||||    a given parameter that varies over a complete range of values
+
+
+Addition of a pole to the open-loop transfer has the effect of     ||||    shifting the root-locus to the left, thereby decreasing the relative stability and increasing the settling time.
+
+
+Frequency response of a system is defined as    ||||    The steady-state response to sinusoidal input signal.
+
+
+A compensating network is added to    ||||    alter the  locus of the roots as a parameter is varied
+
+
+Performance of a control system can be described in terms of    ||||    time-domain performance measures or frequency –domain performance measures
+
+
+The performance of a feedback control system in terms of frequency performance measures can be described by    ||||    peak of the closed-loop frequency response, resonant frequency, bandwidth and phase margin of the system.
+
+
+In frequency  response approach, compensation network is used to alter and reshape the system’s characteristics represented on          ||||    "bode diagram and Nichols chart                                    "
+The design of the control system can be accomplished in the s-plane by root locus method    ||||    altering and reshaping the root locus so that the roots of the system lie in the desired position
+
+
+The lag network acts as a__________filter.    ||||    low pass
+
+
+For a lead compensator a__________ is nearer to the origin.    ||||    Zero
+
+
+. The lead network acts as a__________filter.    ||||    high pass
+
+
+. The lag-lead network acts as a__________filter.    ||||    "band pass                                                                    "
+. A Closed loop system pole location can be arbitrarily placed if and only if the system is    ||||    linear
+
+
+. Phase variables are defined as those state variables which are obtained from    ||||    one of the system variable and its derivatives
+
+
+. Principle of duality, according to kalman ,can be used to establish analogies                 ||||    controllability and sensitivity
+
+
+The type 1 system has a finite non-zero value of     ||||    KA
+
+
+The type two system has           ||||    two pole at the origin
+
+
+The transfer function of a system is 10/1+s. The steady state error to unit step input when operated at a unity feed back system is     ||||    unity
+
+
+An on-off controller is     ||||    "Non-Linear controller"
+
+
+The time required for the response to reach the half the final value for the first time is     ||||    delay time
+
+
+Introduction of integral action changes the system………..    ||||    from type 1 to type 2
+
+
+The  AC Servo motor is suitable for          ||||    low power application devices
+
+
+The Stepper motor is .     ||||    a digital devices
+
+
+The synchro is               ||||    an electromagnetic transducer      
+          
+Three block with gain of 4, 6 & 8 are connected in parallel. The total gain of the arrangement is     ||||    18
+
+
+The transfer function is defined only for.   ||||    Linear and time invariant system
+
+
+Block diagrams can be used to represent    ||||    Both linear and non linear systems
+
+
+Signal flow graph can be used to represent                                                   ||||    Only linear system
+In a signal flow graph the node represent      ||||    the system variable   
+
+
+A node which has the out going branches is called     ||||    Input node
+
+
+Three blocks with gains of 5, 8 and 4 are connected in a cascade. The total gain of the arrangement is    ||||    160
+
+
+Three blocks with gains of 4,6 and 8 are connected in a cascade. The total gain of the arrangement is    ||||    192
+
+
+In electric circuit the power dissipating elements are         ||||    Resistance
+
+
+open loop control systems    ||||    They are generally stable       
+         
+Traffic light control system is a        ||||    time variant system
+
+
+Voltage stabilizer is a             ||||    optimal control system
+
+
+A signal flow graph is diagram that represents a set of       ||||    Simultaneous linear algebraic equation
+
+
+The loops are said to be Non-touching if they do not have     ||||    Common node
+
+
+The basic element of the thermal systems are        ||||    thermal resistance and thermal capacitance
+
+
+The basic element of Automatic control system    ||||    error detector
+
+
+In an electric circuit the energy storing elements are      ||||    Inductance, Resistance
+
+
+Time derivative of position control system is called    ||||    servo mechanism
+
+
+The model of mechnical system can be obtained by using    ||||    Three element       
+                          
+The dash pot will offer an opposing force,whick is proportional to     ||||    Velocity
+
+
+The mass will offering an opposing force whick is proportional to           ||||    Acceleration  
+
+
+The spring will offering an opposing force which is proportional to          ||||    Displacement
+
+
+ A node which has only outgoing branches is called  a              ||||    Input node
+
+
+ The Mason’s gain formula is used to find the      ||||    Transfer function of the system 
+   
+ The dashpot is a mechanical system is analogous to the following in a loop system of an electric circuit     ||||    Resistance
+
+
+The Dashpot is a mechanical system is analogous to the following in a Nodal system of an electric circuit           ||||    Conductance
+
+
+The Mass is a mechanical system is analogous to the following in a Nodal system of an electric circuit          ||||    Capacitance
+
+
+ The Mass is a mechanical system is analogous to the following in a Loop system of an electric circuit          ||||    Inductance
+
+
+The Linear spring is a mechanical system is analogous to the following in a Loop system of an electric circuit          ||||    Reciprocal of capacitance
+
+
+The Linear spring is a mechanical system is analogous to the following in a Nodal system of an electric circuit          ||||    Reciprocal of Inductance
+
+
+The Stepper motor has the following advantages            ||||    it is highly efficient only
+
+
+Torque -Voltage analogy of  Moment of Inertia is     ||||    Inductance.
+
+
+Torque -Voltage analogy of  stiffness of the spring  is     ||||    Reciprocal of capacitance
+
+
+Torque -Current  analogy of  stiffness of the spring  is     ||||    Reciprocal of Inductance
+
+
+Torque -Current  analogy of  moment of inertia  is     ||||    Capacitance
+
+
+Torque -Current  analogy of  angular displacement  is     ||||    Flux
+
+
+In open loop system    ||||    the control action is independent of the output
+
+
+In closed loop control system, with the positive value of feedback gain the overall gain of the system     ||||    Decrease
+
+
+A.C Servo motor is also known as    ||||    Two phase induction motor
+
+
+Example of a closed loop system    ||||    Auto pilot for an Aircraft
+
+
+The transient response, with feedback system    ||||    Decays quickly
+
+
+Zero initial condition for a system means    ||||    System is at rest and no energy is stored in any of its components
+
+
+This is not a final control element in process control systems    ||||    Potentiometer
+
+
+A node which has both incoming and outgoing branches is called  a    ||||    mixed node
+
+
+The system that has the tendency to oscillate is     ||||    Open loop system
+
+
+Which of the following is an open loop control system    ||||    Field controlled DC Generator
+
+
+A good control system has all the following features except    ||||    Slow response
+
+
+Regenerative feedback implies feed back with    ||||    Step input
+
+
+As a result of introduction of negative feedback which of the following will not increase?          ||||      Bandwidth
+
+
+A node which has only incoming branches is called a     ||||    output node
+
+
+A closed loop system is distinguished from open loop system by which of the following     ||||    Feedback
+
+
+A control system working under unknown random action is called    ||||    Stochastic control system
+
+
+The part of the human temperature control system is     ||||    Perspiration system
+
+
+This signal will become zero when the feedback signal and reference signal are equal     ||||           Actuating signal
+
+
+Which of the following can be measured by the use of a tacho-generator?    ||||    Speed
+
+
+Which of the following is the input to a controller?    ||||    Error signal
+
+
+The On-Off controller is a ……………… system    ||||    Non-linear
